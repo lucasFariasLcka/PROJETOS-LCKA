@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+div#interface {
+    width: 800px;
+    background-color: rgba(white,white,white,1);
+    margin: 10px auto 10px auto;
+}
+        p{
+            text-align: justify;
+            text-indent: 50px;
+            font-family:'Courier New', Courier, monospace;
+        }
+        h1 {
+            color: red;
+            text-align: center;
+            font-family: monospace;
+        }
+        h2 {
+            text-align: center;
+        }
+        h4{
+            text-align: center;
+        }
+        h5 {
+            text-align: right;
+        }
+
+
+    /* Fortmatação de imagens */
+    
+figure.fotos-do-site img {
+        border: 2px solid black;
+        box-shadow: 1px 1px 5px black;
+    }
+   
