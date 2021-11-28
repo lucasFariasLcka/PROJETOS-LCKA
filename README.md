@@ -1,2 +1,4 @@
 # PROJETOS-LCKA
  PRIMEIRO REPOSITÓRIO
+ Estudante Mais1code Novo Dev.
+Front End l HTML l CSS l JAVASCRIPT l REACTJS & REACT NATIVE # Estudante - MAIS1CODE
